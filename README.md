@@ -1,11 +1,13 @@
-Hey 👋, I'm Xavier YRIBARREN
-Creative Developer · React · Three.js · WebGL
+<h1 align="center">Xavier YRIBARREN</h1>
+<p align="center">Creative Developer · React · Three.js · WebGL</p>
 
 ---
 
 **About**
 
 I build immersive web experiences: 3D configurators, WebGL visuals, and interactive tools that sit at the intersection of code and craft. Currently exploring DSP, Web Audio API, and AI-assisted development workflows.
+
+---
 
 **Featured Projects**
 
@@ -22,4 +24,4 @@ React · Next.js · Three.js · TypeScript · WebGL · GLSL · Web Audio API · 
 
 ---
 
-"Code is the closest thing we have to magic." 🪄
+*"Code is the closest thing we have to magic."* 🪄
